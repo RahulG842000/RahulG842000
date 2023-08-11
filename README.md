@@ -1,14 +1,14 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rahul Gosavi</h1>
 <h3 align="center">A passionate data analysist from India</h3>
-<img align = "right"alt = "coding"width ="400" src ="https://giphy.com/gifs/crypto-blockchain-rudinihadi-mWK6qsWFY6w5xMKG5D"
-- 🔭 I’m currently working on **Data Science tranning**
+<img align = "right"alt="data science"width="400" src="https://giphy.com/gifs/web-shittyreactiongifs-4FQMuOKR6zQRO.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulg842000" alt="rahulg842000" /></a> </p>
+
+- 🔭 I’m currently working on **Data Science intern**
 
 - 🌱 I’m currently learning **Data Science tools**
 
-- 🤝 I’m looking for help with **To learn data science skills**
-
-- 💬 Ask me about **Some basic details about tools**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **rahulgosavi624@gmail.com**
 
@@ -16,13 +16,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-gosavi-596b20164"> target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-gosavi-596b20164" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rahul.gosavi.745611?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rahul.gosavi.745611?mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/_mr._r.g.842000?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/_mr._r.g.842000?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-gosavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-gosavi" height="30" width="40" /></a>
+<a href="https://fb.com/hrahul.gosavi.745611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hrahul.gosavi.745611" height="30" width="40" /></a>
+<a href="https://instagram.com/_mr._r.g.842000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr._r.g.842000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulg842000&show_icons=true&locale=en&layout=compact" alt="rahulg842000" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulg842000&show_icons=true&locale=en" alt="rahulg842000" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulg842000&" alt="rahulg842000" /></p>
+
 
 <!--
 **RahulG842000/RahulG842000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
